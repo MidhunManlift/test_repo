@@ -1274,9 +1274,9 @@
     ],
     "buffers": [
         {
-            "name": "maybe0",
+		"name": "maybe",
             "byteLength": 3353514,
-            "uri": "maybe0.bin"
+            "uri": "maybe.bin"
         }
     ]
 }
